@@ -1,0 +1,15 @@
+name: 'Gitbook Publisher'
+description: 'Publish Gitbook to GitHub Pages'
+author: 'Derek Zoladz'
+branding:
+  icon: 'book-open'
+  color: 'green'
+inputs:
+  personal_token:
+    description: 'Github personal token for the repo'
+    required: true
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.PERSONAL_TOKEN }}

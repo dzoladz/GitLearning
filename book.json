@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "github",
+    "expandable-chapters"
+  ],
+
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/dzoladz/gitbook-publisher"
+    }
+  }
+}
