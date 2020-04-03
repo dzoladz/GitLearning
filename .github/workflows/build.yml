@@ -13,6 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Publish
-        uses: dzoladz/gitbook-publisher@master
+        uses: OhioNET/GitAccessible@master
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
