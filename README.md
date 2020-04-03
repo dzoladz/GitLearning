@@ -1,6 +1,8 @@
 GitAccessible
 =============
+<!-- PRIVATE REPO
 ![Build Status](https://github.com/OhioNET/GitAccessible/workflows/build/badge.svg)
+-->
 
 - VIEW: [Published Doc](https://ohionet.github.io/GitAccessible)
 
