@@ -2,11 +2,13 @@ GitAccessible
 =============
 ![Build Status](https://github.com/OhioNET/GitAccessible/workflows/build/badge.svg)
 
+- VIEW: [Published Doc](https://ohionet.github.io/GitAccessible)
+
 Description of Project
 
-## How to Use
+## Contribute
 
-Installation Steps
+Clone the repo. Push your changes to master branch. Done! 🎉
 
 ## Gitbook Publish Action
 
