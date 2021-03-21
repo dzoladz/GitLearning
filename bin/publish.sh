@@ -26,5 +26,5 @@ git commit -a -m "${COMMIT_MESSAGE}"
 # push to the origin
 git push -u origin gh-pages
 
-# checkout to the master branch
-git checkout master
+# checkout to the main branch
+git checkout main

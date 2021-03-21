@@ -3,7 +3,7 @@ name: 'publish'
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -13,6 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Publish
-        uses: OhioNET/GitAccessible@master
+        uses: dzoladz/GitLearning@main
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
