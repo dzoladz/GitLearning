@@ -57,3 +57,11 @@ Todo List
 - [ ] Design Systems
 - [ ] Project/Code Templates
 
+### Unclassified, yet
+
+- https://capistranorb.com/
+- https://k6.io/open-source
+- https://github.com/drivendata/cookiecutter-data-science
+- https://github.com/ourresearch/oadoi
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
+- https://www.figma.com/design-systems/
