@@ -57,6 +57,26 @@ Todo List
 - [ ] Design Systems
 - [ ] Project/Code Templates
 
+### Data Literacy
+- Pydantic - [https://pypi.org/project/pydantic/](https://pypi.org/project/pydantic/)
+- Marshmellow - [https://pypi.org/project/marshmallow/](https://pypi.org/project/marshmallow/)
+- Data Management Skillbuilding Hub [https://dataoneorg.github.io/Education/](https://dataoneorg.github.io/Education/)
+- Kylo, data lake management platform [https://kylo.io/](https://kylo.io/)
+- Preset.io, hosted Apache Superset [https://preset.io/](https://preset.io/)
+- Apache Superset [https://superset.apache.org/](https://superset.apache.org/)
+- Metabase [https://www.metabase.com/](https://www.metabase.com/)
+- Tableau [https://www.tableau.com/](https://www.tableau.com/)
+- Talend [https://www.talend.com/products/talend-open-studio/](https://www.talend.com/products/talend-open-studio/)
+- Google Data Studio [https://datastudio.google.com/](https://datastudio.google.com)
+- Magda, data catalog [https://magda.io/](https://magda.io/)
+- AWS Quicksight [https://aws.amazon.com/quicksight/](https://aws.amazon.com/quicksight/)
+- Looker, BI -> Acquired Google Cloud [https://looker.com/](https://looker.com/)
+- Terms:
+  - Data Catalog & Discovery
+  - Data Quality & Profiling 
+  - Data Lineage & Governance 
+  - Data Exploration & Integrations
+
 ### Unclassified, yet
 
 - https://capistranorb.com/
