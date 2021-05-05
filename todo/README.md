@@ -71,6 +71,9 @@ Todo List
 - Magda, data catalog [https://magda.io/](https://magda.io/)
 - AWS Quicksight [https://aws.amazon.com/quicksight/](https://aws.amazon.com/quicksight/)
 - Looker, BI -> Acquired Google Cloud [https://looker.com/](https://looker.com/)
+- Jupyter Notebooks [https://jupyter.org/](https://jupyter.org/)
+- JupyterHub [https://github.com/jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+- Binder [https://mybinder.org/](https://mybinder.org/)
 - Terms:
   - Data Catalog & Discovery
   - Data Quality & Profiling 
