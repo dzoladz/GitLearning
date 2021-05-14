@@ -9,7 +9,7 @@ As of Rancher v2.5, Rancher can be installed on any Kubernetes cluster.
 
 ### Installing Rancher via Helm3 
 
-1. Add the Rancher Helm chart repository
+1. Add the Rancher Helm chart repo
 
 ```bash
 helm repo add rancher-latest https://releases.rancher.com/server-charts/latest
